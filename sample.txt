@@ -1,3 +1,4 @@
 hoge
 piyo
 fuga
+bar
